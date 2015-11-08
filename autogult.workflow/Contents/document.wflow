@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>409.2</string>
+	<string>417</string>
 	<key>AMApplicationVersion</key>
-	<string>2.5</string>
+	<string>2.6</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -174,7 +174,7 @@ imgult "$@"</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>447.000000:253.000000</string>
+				<string>309.000000:253.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -187,7 +187,7 @@ imgult "$@"</string>
 	<key>workflowMetaData</key>
 	<dict>
 		<key>folderActionFolderPath</key>
-		<string>~/Desktop</string>
+		<string>~/Desktop/Screenshots</string>
 		<key>workflowTypeIdentifier</key>
 		<string>com.apple.Automator.folderAction</string>
 	</dict>
